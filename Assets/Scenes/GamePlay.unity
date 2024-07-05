@@ -7520,6 +7520,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
       value: SceneManagement, Assembly-CSharp
       objectReference: {fileID: 0}
+    - target: {fileID: 5958178387323595426, guid: fe00bea5d965b0a46b6fc86af885d5a0, type: 3}
+      propertyPath: isFirstShow
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6372281656814570741, guid: fe00bea5d965b0a46b6fc86af885d5a0, type: 3}
       propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 

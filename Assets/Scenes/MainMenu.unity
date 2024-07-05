@@ -1278,7 +1278,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2df8989ecbc9cda49bcc17bd0d69962e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  trans: {fileID: 0}
+  trans: {fileID: 449615662}
   isHover: 0
   speed: 500
   startPos: 200
@@ -5376,7 +5376,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2df8989ecbc9cda49bcc17bd0d69962e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  trans: {fileID: 0}
+  trans: {fileID: 1720360700}
   isHover: 0
   speed: 500
   startPos: 200
@@ -5930,7 +5930,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2df8989ecbc9cda49bcc17bd0d69962e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  trans: {fileID: 0}
+  trans: {fileID: 1946649862}
   isHover: 0
   speed: 500
   startPos: 200

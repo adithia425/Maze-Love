@@ -18,7 +18,7 @@ public class AnimButtonMenu : MonoBehaviour
 
     private void Awake()
     {
-        trans = GetComponent<RectTransform>();
+        //trans = GetComponent<RectTransform>();
     }
     void Start()
     {

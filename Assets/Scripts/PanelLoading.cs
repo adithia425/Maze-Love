@@ -5,6 +5,7 @@ using UnityEngine;
 public class PanelLoading : MonoBehaviour
 {
     public Animator anim;
+    public bool isFirstShow;
 
     private void Awake()
     {
@@ -12,6 +13,7 @@ public class PanelLoading : MonoBehaviour
     }
     void Start()
     {
+        if (!isFirstShow) return;
         HideLoading();
         Invoke("HidePanelLoading", 1.1f);
     }
